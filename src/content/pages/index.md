@@ -1,12 +1,11 @@
 ---
 template: index-page
 slug: /
-title: Wyatt Morriss
-tagline: Graphic Designer
-featuredImage: /assets/toa-heftiba-0rlfirsdvzu-unsplash.jpg
+title: Arick Soo
+tagline: Budding Technologist
+featuredImage: /assets/img_0191.png
 cta:
   ctaText: Know more
   ctaLink: /about
 ---
-
-He is a award winning gaming graphic designer, based in sunny side of California. Working as Principal designer at Bethesda
+Making the world a better place is important personally. I believe entrepreneurship and innovation is one way to effect this change, inspired by technology enhancing efficiency, increasing utilization for under-used assets, and reducing carbon footprint. Companies like Grab, AirBnB, Tesla, and SpaceX are my role models in catalysing positive changes, whose forward-thinking founders goes against the grain building amazing products, solving issues that were thought impossible.
