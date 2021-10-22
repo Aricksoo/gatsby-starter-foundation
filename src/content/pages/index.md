@@ -3,7 +3,7 @@ template: index-page
 slug: /
 title: Arick Soo
 tagline: Budding Technologist
-featuredImage: /assets/img_0191.png
+featuredImage: /assets/img_7254.jpg
 cta:
   ctaText: Know more
   ctaLink: /about
