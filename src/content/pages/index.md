@@ -5,7 +5,7 @@ title: Arick Soo
 tagline: Budding Technologist
 featuredImage: /assets/img_7254.jpg
 cta:
-  ctaText: Know more
+  ctaText: Learn more
   ctaLink: /about
 ---
 Making the world a better place is important personally. 
