@@ -4,8 +4,8 @@
     "titleTemplate": "%s",
     "description": "A Personal Blog on my Projects and Interest - Arick Soo",
     "siteUrl": "https://aricksoo.netlify.app/",
-    "image": "/assets/untitled-design.png",
-    "iconimage": "/assets/untitled-design.png",
+    "image": "/assets/logo.png",
+    "iconimage": "/assets/logo.png",
     "twitterUsername": ""
   },
   "ga": "UA-XXXXXXXXX-X"
