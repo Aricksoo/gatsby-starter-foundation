@@ -2,7 +2,7 @@
   "meta": {
     "title": "Personal Blog",
     "titleTemplate": "%s",
-    "description": "A personal blog for my projects and interests. - Arick Soo",
+    "description": "A personal blog for my projects and interests. ",
     "siteUrl": "https://aricksoo.netlify.app/",
     "image": "/assets/logo.png",
     "iconimage": "/assets/logo.png",
