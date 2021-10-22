@@ -147,7 +147,7 @@ collections:
               - widget: text
                 name: description
                 label: Description
-                default: ""
+                default: "A personal blog for my projects and interests."
                 required: false
               - widget: image
                 name: image
