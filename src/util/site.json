@@ -2,11 +2,11 @@
   "meta": {
     "title": "Personal Blog",
     "titleTemplate": "%s",
-    "description": "A Personal Blog on my Projects and Interest - Arick Soo",
+    "description": "",
     "siteUrl": "https://aricksoo.netlify.app/",
     "image": "/assets/logo.png",
     "iconimage": "/assets/logo.png",
-    "twitterUsername": "@Ahrickk"
+    "twitterUsername": ""
   },
   "ga": "UA-XXXXXXXXX-X"
 }
