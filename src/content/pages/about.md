@@ -7,7 +7,7 @@ My Personal Aspiration:
 
 > **"To make the world a better place."**
 
-It started from my journey at Nanyang Polytechnic, pursuing the Diploma of Engineering with Business. I was involved in various multi-disciplinary projects, creating innovative inventions that would impact society. Having gone through all these experiences made me grew into Technology Entrepreneurship as I believe of innovating solutions in search of problems by sustaining technology efforts, being persistent, and through coordinated endeavor, I strongly believe we can accomplish technological change.
+It started from my journey at Nanyang Polytechnic, pursuing the Diploma of Engineering with Business. I was involved in various multi-disciplinary projects, creating innovative inventions that would impact society. Having gone through all these experiences made me grew into Technology Entrepreneurship as I believe of innovating solutions in search of problems by sustaining technology efforts, being persistent, and through the coordinated endeavor to accomplish technological change.
 
 ![My Polytechnic Graduation](/assets/img_6919.jpg "Graduation Photoshoot")
 
@@ -23,4 +23,4 @@ I believe that everyone can achieve great things when they put their heart and s
 
 > “There is not great people in the world, only great challenges which ordinary people rise to meet.”
 
-I hope one day, I too will be able to catalyze positive changes in the world.
+I hope that one day, I too will be able to catalyze positive changes in the world.
