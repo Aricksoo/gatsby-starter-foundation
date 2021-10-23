@@ -17,16 +17,10 @@ I am very passionate about bringing concepts into reality which is why I’ve no
 \
 I give back to society by being a Youth Corp Leader – By Youth Corps Singapore under the National Youth Council. Co-Founded Smart Cities Youth Network, a Non-Profit Organization that empowers youths with Smart City Concepts through cross-collaboration between Academia, Industry, and the Government to Shape the Future of Cities.
 
-<!--StartFragment-->
-
 A quote that strongly resonates with me since young.
 
-> <!--StartFragment-->
 >
 > “There is not great people in the world, only great challenges which ordinary people rise to meet.”
 >
-> <!--EndFragment-->
 
 I hope one day I too will be able catalyse positive changes in the world.
-
-<!--EndFragment-->
