@@ -5,12 +5,12 @@
       "url": "https://www.instagram.com/ahrickk/?hl=en"
     },
     {
-      "icon": "linkedin",
-      "url": "https://www.linkedin.com/in/aricksoo/"
-    },
-    {
       "icon": "github",
       "url": "https://github.com/Aricksoo"
+    },
+    {
+      "icon": "linkedin",
+      "url": "https://www.linkedin.com/in/aricksoo/"
     }
   ]
 }
