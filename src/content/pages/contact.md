@@ -3,7 +3,8 @@ template: contact-page
 slug: /contact
 title: Get in touch
 ---
+As an aspiring entrepreneur, I'm constantly looking for opportunities to apply my skills and knowledge and to learn from other successful entrepreneurs, network and connect with like-minded people and broaden my perspective of innovating solutions in search for problems.
 
-Got a burning question regarding **JAMstack**, Need a new **Website**, or just anything in general. We are happy to talk.
+Have a question regarding some of my projects or looking for potential collaborations, I'm happy to talk.
 
-Just send us a message using the form below or you can send us a DM on [Twitter](https://twitter.com/stackrole)
+Just send me a message using the form below or you can connect with me on my Linkedin!
