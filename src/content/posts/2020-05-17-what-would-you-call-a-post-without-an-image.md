@@ -1,6 +1,6 @@
 ---
 template: blog-post
-title: Entrepreneurial Initiative
+title: My First Entrepreneurial Initiative
 slug: /underused-lockers
 date: 2018-01-11 08:40
 description: Rental box stores
