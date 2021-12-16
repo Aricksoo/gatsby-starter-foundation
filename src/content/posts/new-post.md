@@ -1,7 +1,7 @@
 ---
 template: blog-post
 title: Singapore Youth Corp Leaders
-slug: /new-post
+slug: /singapore-youth-corp-leaders
 date: 2017-10-21 13:53
 description: Singapore Youth Award & Youth Corp Leaders Commencement 2017
 featuredImage: /assets/img_5156.jpg
