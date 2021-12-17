@@ -1,54 +1,17 @@
 ---
 template: blog-post
-title: Desk for minimalists
-slug: /minimalists-desk
-date: 2020-05-13 12:46
-description: sdasd
-featuredImage: /assets/bench-accounting-nvzvopqw0gc-unsplash.jpg
+title: Jet Aviation Internship
+slug: /jet-aviation-internship
+date: 2017-07-13 12:46
+description: My internship experience at Jet Aviation
+featuredImage: /assets/img_3557.jpg
 ---
+As part of the requirement from my Polytechnic, we have to go through a minimum of 3 months internship. I was selected to undergo my internship at Jet Aviation.
 
-Uh, is the puppy mechanical in any way? Maybe I love you so much I love you no matter who you are pretending to be. If rubbin' frozen dirt in your crotch is wrong, hey I don't wanna be right. I found what I need. And it's not friends, it's things.
+I was assigned to various projects that dealt directly with the Logistics and Supply Chain Department. Projects such as to revamp the consignment store, arranging and recording stocks according to the type and size. Reorganizing certain parts and layout of the warehouse to provide convenience and access for all employees. 
 
-That's the ONLY thing about being a slave. OK, if everyone's finished being stupid. Bender, we're trying our best. Fry! Stay back! He's too powerful! I just told you! **You've killed me!** _And yet you haven't said what I told you to say!_ How can any of us trust you?
+The projects I took definitely allowed me to portray my knowledge and skills in strategic planning, project management, and also team leadership. Despite my lack of knowledge in the Aviation Sector, I showed great interest and is keen to learn at any task given. 
 
-![Royal Mail](/assets/royal-mail-unsplash.jpg "Royal Mail from Unsplash")
+Due to the fluid nature of the team’s work and methodologies, I had to keep up with changes constantly, while still being able to comprehend and capture the essence of what the team does. Moreover, I was tasked to assist the department’s Inspectors with some technical and visual Inspection of Important Parts, Documents and Dangerous Goods. 
 
-## It doesn't look so shiny to me.
-
-No! I want to live! There are still too many things I don't own! It doesn't look so shiny to me. I'm just glad my fat, ugly mama isn't alive to see this day. Soon enough. I'm sure those windmills will keep them cool.
-
-![]()
-
-1. Guards! Bring me the forms I need to fill out to have her taken away!
-2. Have you ever tried just turning off the TV, sitting down with your children, and hitting them?
-3. You, a bobsleder!? That I'd like to see!
-
-### Daylight and everything.
-
-A true inspiration for the children. Anyone who laughs is a communist! Can I use the gun? Oh, how I wish I could believe or understand that! There's only one reasonable course of action now: kill Flexo!
-
-- Fry! Stay back! He's too powerful!
-- Look, last night was a mistake.
-- Please, Don-Bot… look into your hard drive, and open your mercy file!
-
-And I'm his friend Jesus. One hundred dollars. There, now he's trapped in a book I wrote: a crummy world of plot holes and spelling errors! No! The cat shelter's on to me.
-
-Fry! Quit doing the right thing, you jerk! I'm sure those windmills will keep them cool. I'm Santa Claus! Leela's gonna kill me. Then we'll go with that data file!
-
-That's right, baby. I ain't your loverboy Flexo, the guy you love so much. You even love anyone pretending to be him! Bite my shiny metal ass. Tell them I hate them. Yeah, and if you were the pope they'd be all, "Straighten your pope hat." And "Put on your good vestments."
-
-That's a popular name today. Little "e", big "B"? Hey, whatcha watching? A sexy mistake. A true inspiration for the children. Shut up and get to the point!
-
-Ven ve voke up, ve had zese wodies. Oh, all right, I am. But if anything happens to me, tell them I died robbing some old man. So, how 'bout them Knicks? Oh Leela! You're the only person I could turn to; you're the only person who ever loved me.
-
-Shut up and get to the point! Take me to your leader! I can explain. It's very valuable. You guys realize you live in a sewer, right?
-
-Robot 1-X, save my friends! And Zoidberg! Oh Leela! You're the only person I could turn to; you're the only person who ever loved me. I guess because my parents keep telling me to be more ladylike. As though!
-
-I daresay that Fry has discovered the smelliest object in the known universe! Oh right. I forgot about the battle. Oh dear! She's stuck in an infinite loop, and he's an idiot! Well, that's love for you.
-
-You wouldn't. Ask anyway! Is today's hectic lifestyle making you tense and impatient? Ven ve voke up, ve had zese wodies. Doomsday device? Ah, now the ball's in Farnsworth's court!
-
-Fatal. Maybe I love you so much I love you no matter who you are pretending to be. Really?! You can see how I lived before I met you. Alright, let's mafia things up a bit. Joey, burn down the ship. Clamps, burn down the crew.
-
-Enough about your promiscuous mother, Hermes! We have bigger problems. Bender, being God isn't easy. If you do too much, people get dependent on you, and if you do nothing, they lose hope. You have to use a light touch. Like a safecracker, or a pickpocket.
+With all being said, I believed my internship experience has help groomed me in my communication, efficiency and attitude. I have also learnt to speak up to ask or sometimes even question the underlying principles of various rules and regulations in the Aviation Industry.
