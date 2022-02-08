@@ -1,7 +1,7 @@
 ---
 template: blog-post
 title: ASEAN Geospatial Challenge 2021
-slug: /ASEAN-Geospatial-Challenge-2021
+slug: /test
 date: 2021-08-18 18:55
 description: ASEAN Geospatial Challenge 2021, Project Sherpa
 featuredImage: /assets/header.jfif
