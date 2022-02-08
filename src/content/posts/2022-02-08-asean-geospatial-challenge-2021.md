@@ -1,10 +1,10 @@
 ---
 template: blog-post
 title: ASEAN Geospatial Challenge 2021
-slug: /test
+slug: /asean-geospatial-challenge-2021
 date: 2021-08-18 18:55
 description: ASEAN Geospatial Challenge 2021, Project Sherpa
-featuredImage: /assets/header.jfif
+featuredImage: /assets/project.png
 ---
 I'm proud of my team to have emerged as one of the Winners representing Singapore as well as attaining the Excellence Award in the ASEAN Geospatial Challenge 2021.
 
@@ -13,7 +13,7 @@ I'm proud of my team to have emerged as one of the Winners representing Singapor
 \
 It has been a great experience to have worked alongside my Team. Despite coming from different disciplines and across the different Universities in Singapore such as [](https://www.linkedin.com/company/singapore-management-university/)Singapore Management University, [](https://www.linkedin.com/company/singapore-institute-of-technology/)Singapore Institute of Technology (SIT), [S](https://www.linkedin.com/company/singapore-institute-of-management/)ingapore Institute of Management (SIM), and Singapore University of Social Sciences (SUSS), we were able to learn and build on one another's knowledge and experiences.
 
-![](/assets/team.jfif)
+![](/assets/photyo.jpg)
 
 \
 Given our common interest in leveraging assistive technologies to foster the integration of an inclusive society within our cities and communities. It has led us to the creation of Project Sherpa and its Mission; To build an inclusive society and to empower all wheelchair users to live independently and confidently through “boundless navigation”.
