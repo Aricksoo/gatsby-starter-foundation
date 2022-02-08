@@ -11,12 +11,12 @@ I'm proud of my team to have emerged as one of the Winners representing Singapor
 [Link to ASEAN Geospatial Challenge 2021 video](https://bit.ly/3ClX5Zb)
 
 \
-It has been a great experience to have worked alongside [Jaryl Tay](https://www.linkedin.com/in/ACoAACJ7Z7ABAhcSjkOWBHgjpW_g1uncbunzj_I), [Jonas Tang](https://www.linkedin.com/in/ACoAACMm5YsBfyrGGcj-Tbu_8QqydRY52mT-sBo), and Caleb Yak. Despite coming from different disciplines and across the different Universities in Singapore such as [Singapore Management University](https://www.linkedin.com/company/singapore-management-university/), [Singapore Institute of Technology](https://www.linkedin.com/company/singapore-institute-of-technology/), [Singapore Institute of Management](https://www.linkedin.com/company/singapore-institute-of-management/), and [Singapore University of Social Sciences (SUSS)](https://www.linkedin.com/company/singapore-university-of-social-sciences/), we were able to learn and build on one another's knowledge and experiences.
+It has been a great experience to have worked alongside my Team. Despite coming from different disciplines and across the different Universities in Singapore such as [](https://www.linkedin.com/company/singapore-management-university/)Singapore Management University, [](https://www.linkedin.com/company/singapore-institute-of-technology/)Singapore Institute of Technology (SIT), [S](https://www.linkedin.com/company/singapore-institute-of-management/)ingapore Institute of Management (SIM), and Singapore University of Social Sciences (SUSS), we were able to learn and build on one another's knowledge and experiences.
 
 ![](/assets/team.jfif)
 
 \
-Given our common interest in leveraging assistive technologies to foster the integration of an inclusive society ([\#SDG11](https://www.linkedin.com/feed/hashtag/?keywords=sdg11&highlightedUpdateUrns=urn%3Ali%3Aactivity%3A6844173636501434368)) within our cities and communities. It has led us to the creation of Project Sherpa and its Mission; To build an inclusive society and to empower all wheelchair users to live independently and confidently through “boundless navigation”.
+Given our common interest in leveraging assistive technologies to foster the integration of an inclusive society within our cities and communities. It has led us to the creation of Project Sherpa and its Mission; To build an inclusive society and to empower all wheelchair users to live independently and confidently through “boundless navigation”.
 
 **Project Sherpa Application Summary** 
 
